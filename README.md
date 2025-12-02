@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jiri-kulik
-- 👀 I’m interested in Python, Pandas, Machine Learning, Data Mining, Evolutionary Algorithms
+- 👀 I’m interested in Python, Polars, Pandas, Machine Learning, Data Mining, Evolutionary Algorithms
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
